@@ -1,2 +1,2 @@
-# class-33-Angry-Birds
-class 33 Angry Birds
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
